@@ -2,7 +2,7 @@
 
 This repository contains all notebooks for the integrated course "Data Analysis with Python", held at the Salzburg Unviersity of Applied Sciences (SUAS).
 
-Instructor: [M. Uray](https://its.fh-salzburg.ac.at/ueber-uns/alle-mitarbeiterinnen/detail/uray/), Office Hourse: see department website
+Instructor: [M. Uray](https://its.fh-salzburg.ac.at/ueber-uns/alle-mitarbeiterinnen/detail/uray/), Office Hours: see department website
 
 ## Course Information
 
